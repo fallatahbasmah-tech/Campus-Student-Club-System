@@ -1,6 +1,6 @@
 # Campus Student Club System
 
-A CS112 final project by **Hajar Algedeei** and **Basmah Fallatah**. This Python application manages club events and student registrations through a terminal menu, with a Tkinter thank-you window on exit.
+A CS112 final project by   **Basmah Fallatah**. This Python application manages club events and student registrations through a terminal menu, with a Tkinter thank-you window on exit.
 
 ## Features
 
@@ -48,6 +48,6 @@ Back up local data before experimenting. See [REVIEW_AR.md](REVIEW_AR.md) for re
 
 ## Authorship and publication changes
 
-Original authors: **Hajar Algedeei (هاجر)** and **Basmah Fallatah (بسمة)**, as credited in the source. No individual division of contributions is asserted.
+Original authors:  **Basmah  (بسمة)**, as credited in the source. No individual division of contributions is asserted.
 
 Publication preparation renamed `CS112 Project.py` to `club_system.py`, removed the authors' student IDs from the thank-you message, omitted the original saved student records, and added documentation and ignore rules. Source logic is otherwise unchanged; UTF-8 text and line endings were normalized. The exit message still credits both authors. No open-source license has been added because the authors have not selected one.
